@@ -1,0 +1,4 @@
+# Dataset Information
+This project uses the [MovieLens Latest Small Dataset](https://grouplens.org/datasets/movielens/).
+
+Please download it manually from the above link and extract it into your local environment before running the notebook.
